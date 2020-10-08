@@ -1,0 +1,53 @@
+﻿Date,SB,City,State,Avg Temp (F),Precipitation (in),Dew Point (F),Wind Speed (mph)
+15-Jan-67,I,Los Angeles,California,61.75,0,31.88,9
+14-Jan-68,II,Miami,Florida,59.38,0,49.88,16
+12-Jan-69,III,Miami,Florida,65.5,0,58,15
+11-Jan-70,IV,New Orleans,Louisiana,57.75,0,53.75,18
+17-Jan-71,V,Miami,Florida,58.54,0,45.08,15
+16-Jan-72,VI,New Orleans,Louisiana,34.38,0,12.63,17
+14-Jan-73,VII,Los Angeles,California,62.83,0,41.96,14
+13-Jan-74,VIII,Houston,Texas,40.2,0,34.27,12
+12-Jan-75,IX,New Orleans,Louisiana,43.84,0,36,23
+18-Jan-76,X,Miami,Florida,48.58,0,26.5,23
+9-Jan-77,XI,Pasadena,California,48.63,0,25.67,9
+15-Jan-78,XII,New Orleans,Louisiana,32.21,0,24.33,12
+21-Jan-79,XIII,Miami,Florida,55.07,0,50.73,23
+20-Jan-80,XIV,Pasadena,California,55.18,0,32.45,25
+25-Jan-81,XV,New Orleans,Louisiana,57.38,0,45.79,14
+24-Jan-82,XVI,Pontiac,Michigan,0,0,0,32
+30-Jan-83,XVII,Pasadena,California,53.43,0,41.43,9
+22-Jan-84,XVIII,Tampa,Florida,51.8,0,38.64,18
+20-Jan-85,XIX,Palo Alto,California,43.16,0,39.32,5
+26-Jan-86,XX,New Orleans,Louisiana,48.88,0,32.67,20
+25-Jan-87,XXI,Pasadena,California,59.83,0,30.57,7
+31-Jan-88,XXII,San Diego,California,53.6,0,44.68,10
+22-Jan-89,XXIII,Miami Gardens,Florida,71.79,0,64.5,28
+28-Jan-90,XXIV,New Orleans,Louisiana,55.19,0,48.48,16
+27-Jan-91,XXV,Tampa,Florida,50.87,0,44.87,10
+26-Jan-92,XXVI,Minneapolis,Minnesota,18.32,0,13.2,17
+31-Jan-93,XXVII,Pasadena,California,52.36,0,16.91,13
+30-Jan-94,XXVIII,Atlanta,Georgia,37.5,0,26.58,15
+29-Jan-95,XXIX,Miami Gardens,Florida,73.38,0,66.83,12
+28-Jan-96,XXX,Tempe,Arizona,54.35,0,20.26,9
+26-Jan-97,XXXI,New Orleans,Louisiana,58.96,0,33.87,21
+25-Jan-98,XXXII,San Diego,California,59.29,0,52.67,12
+31-Jan-99,XXXIII,Miami Gardens,Florida,73.95,0,61.23,14
+30-Jan-00,XXXIV,Atlanta,Georgia,31.36,0,25.87,84
+28-Jan-01,XXXV,Tampa,Florida,58.52,0,51.39,8
+3-Feb-02,XXXVI,New Orleans,Louisiana,54.27,0,41.77,8
+26-Jan-03,XXXVII,San Diego,California,68.91,0,41.22,13
+1-Feb-04,XXXVIII,Houston,Texas,55.86,0,51.93,15
+6-Feb-05,XXXIX,Jacksonville,Florida,52.35,0,44.91,20
+5-Feb-06,XL,Detroit,Michigan,30.46,0,24.67,23
+4-Feb-07,XLI,Miami Gardens,Florida,66.35,0,63.21,12
+3-Feb-08,XLII,Glendale,Arizona,54.09,0,34.45,21
+1-Feb-09,XLIII,Tampa,Florida,56,0,38.74,8
+7-Feb-10,XLIV,Miami Gardens,Florida,60.26,0,46.52,14
+6-Feb-11,XLV,Arlington,Texas,43.03,0,30.52,21
+5-Feb-12,XLVI,Indianapolis,Indiana,38.17,0,29.31,10
+3-Feb-13,XLVII,New Orleans,Louisiana,58.43,0,41.13,9
+2-Feb-14,XLVIII,East Rutherford,New Jersey,40.78,0,31.52,10
+1-Feb-15,XLIX,Glendale,Arizona,55.32,0.07,50.66,9
+7-Feb-16,L ,Santa Clara,California,59.33,0,42,18
+5-Feb-17,LI ,Houston,Texas,69.86,0,65.5,16
+4-Feb-18,LII,Minneapolis,Minnesota,0.04,0.15,-8.71,21
