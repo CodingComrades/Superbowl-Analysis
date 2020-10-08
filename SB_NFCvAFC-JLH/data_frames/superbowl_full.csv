@@ -1,0 +1,24 @@
+Season,AFC,NFC,Tie,Date_x,SB,Winner,City,State,Attendance,Super Bowl,Date_y,Network,Rating,Share,Second Spot,Viewers,Viewers (MM),NFC-AFC Wins,AFC-NFC Wins
+2017,23,41,0,4-Feb-18,LII,Philadelphia Eagles,Minneapolis,Minnesota,67612,LII,Feb 4 2018,NBC,43.1,68.0,"$5,200,000 ",103400000,103.4,18,-18
+2016,33,30,1,5-Feb-17,LI ,New England Patriots,Houston,Texas,70807,LI,Feb 5 2017,FOX,45.3,70.0,"$5,000,000 ",111300000,111.3,-3,3
+2015,29,35,0,7-Feb-16,L ,Denver Broncos,Santa Clara,California,71088,L,Feb 7 2016,CBS,46.6,72.0,"$4,500,000 ",111900000,111.9,6,-6
+2014,33,30,1,1-Feb-15,XLIX,New England Patriots,Glendale,Arizona,70288,XLIX,Feb 1 2015,NBC,47.5,71.0,"$4,250,000 ",114442000,114.442,-3,3
+2013,30,34,0,2-Feb-14,XLVIII,Seattle Seahawks,East Rutherford,New Jersey,82529,XLVIII,Feb 2 2014,FOX,46.7,69.0,"$4,000,000 ",111500000,111.5,4,-4
+2012,25,39,0,3-Feb-13,XLVII,Baltimore Ravens,New Orleans,Louisiana,71024,XLVII,Feb 3 2013,CBS,48.1,71.0,"$3,800,000 ",108700000,108.7,14,-14
+2011,31,33,0,5-Feb-12,XLVI,New York Giants,Indianapolis,Indiana,68658,XLVI,Feb 5 2012,NBC,47.8,71.0,"$3,500,000 ",111346000,111.346,2,-2
+2010,34,30,0,6-Feb-11,XLV,Green Bay Packers,Arlington,Texas,103219,XLV,Feb 6 2011,FOX,47.9,68.0,"$3,100,000 ",111010000,111.01,-4,4
+2009,37,27,0,7-Feb-10,XLIV,New Orleans Saints,Miami Gardens,Florida,74059,XLIV,Feb 7 2010,CBS,45.0,66.0,"$2,954,010 ",106476000,106.476,-10,10
+2008,34,29,1,1-Feb-09,XLIII,Pittsburgh Steelers,Tampa,Florida,70774,XLIII,Feb 1 2009,FOX,42.0,64.0,"$2,999,960 ",98732000,98.732,-5,5
+2007,32,32,0,3-Feb-08,XLII,New York Giants,Glendale,Arizona,71101,XLII,Feb 3 2008,FOX,43.1,65.0,"$2,699,963 ",97448000,97.448,0,0
+2006,40,24,0,4-Feb-07,XLI,Indianapolis Colts,Miami Gardens,Florida,74512,XLI,Feb 4 2007,CBS,42.6,64.0,"$2,385,365 ",93184000,93.184,-16,16
+2005,34,30,0,5-Feb-06,XL,Pittsburgh Steelers,Detroit,Michigan,68206,XL,Feb 5 2006,ABC,41.6,62.0,"$2,500,000 ",90745000,90.745,-4,4
+2004,44,20,0,6-Feb-05,XXXIX,New England Patriots,Jacksonville,Florida,78125,XXXIX,Feb 6 2005,FOX,41.1,62.0,"$2,400,000 ",86072000,86.072,-24,24
+2003,34,30,0,1-Feb-04,XXXVIII,New England Patriots,Houston,Texas,71525,XXXVIII,Feb 1 2004,CBS,41.4,63.0,"$2,302,200 ",89795000,89.795,-4,4
+2002,34,29,1,26-Jan-03,XXXVII,Tampa Bay Buccaneers,San Diego,California,67603,XXXVII,Jan 26 2003,ABC,40.7,61.0,"$2,200,000 ",88637000,88.637,-5,5
+2001,30,30,0,3-Feb-02,XXXVI,New England Patriots,New Orleans,Louisiana,72922,XXXVI,Feb 3 2002,FOX,40.4,61.0,"$2,200,000 ",86801000,86.801,0,0
+2000,30,30,0,28-Jan-01,XXXV,Baltimore Ravens,Tampa,Florida,71921,XXXV,Jan 28 2001,CBS,40.4,61.0,"$2,200,000 ",84335000,84.335,0,0
+1999,38,22,0,30-Jan-00,XXXIV,St. Louis Rams,Atlanta,Georgia,72625,XXXIV,Jan 30 2000,ABC,43.3,63.0,"$2,100,000 ",88465000,88.465,-16,16
+1998,31,29,0,31-Jan-99,XXXIII,Denver Broncos,Miami Gardens,Florida,74803,XXXIII,Jan 31 1999,FOX,40.2,61.0,"$1,600,000 ",83720000,83.72,-2,2
+1997,31,28,1,25-Jan-98,XXXII,Denver Broncos,San Diego,California,68912,XXXII,Jan 25 1998,NBC,44.5,67.0,"$1,291,100 ",90000000,90.0,-3,3
+1996,32,28,0,26-Jan-97,XXXI,Green Bay Packers,New Orleans,Louisiana,72301,XXXI,Jan 26 1997,FOX,43.3,65.0,"$1,200,000 ",87870000,87.87,-4,4
+1995,27,33,0,28-Jan-96,XXX,Dallas Cowboys,Tempe,Arizona,76347,XXX,Jan 28 1996,NBC,46.0,68.0,"$1,085,000 ",94080000,94.08,6,-6
